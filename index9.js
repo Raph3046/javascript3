@@ -1,0 +1,9 @@
+// Manipulate Arrays with pop
+
+// Setup
+let myArray = [["john", 23], ["cat", 2]];
+
+// Only change code below this line
+let removedFromMyArray = myArray.pop();
+
+console.log(myArray)
